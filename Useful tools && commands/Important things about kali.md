@@ -32,3 +32,5 @@ Renaming files:
 mv <file/directory> <renamed file/directory>
 Finding files:
 find <location> <options>
+find / -type f -name *.conf -user root -size +20k -newermt 2020-03-03 -exec ls -al {} \; 2>/dev/null
+find /etc/ -name shadow 2>/dev/null
