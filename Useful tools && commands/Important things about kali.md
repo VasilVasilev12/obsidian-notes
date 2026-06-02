@@ -30,3 +30,5 @@ touch <name>
 mkdir <name>
 Renaming files:
 mv <file/directory> <renamed file/directory>
+Finding files:
+find <location> <options>
