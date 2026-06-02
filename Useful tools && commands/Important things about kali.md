@@ -28,3 +28,5 @@
 ### To make files you need to:
 touch <name>
 mkdir <name>
+Renaming files:
+mv <file/directory> <renamed file/directory>
