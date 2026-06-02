@@ -25,4 +25,6 @@
 **6**. Date and time
 **7.** File name
 
-
+### To make files you need to:
+touch <name>
+mkdir <name>
